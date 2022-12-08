@@ -1,0 +1,3 @@
+[submodule "youtube-chapters-creator"]
+	path = youtube-chapters-creator
+	url = https://github.com/AdnanBen/youtube-chapters-creator
